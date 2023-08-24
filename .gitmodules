@@ -1,3 +1,3 @@
-[submodule "gohighlevel_oauth_demo_flask"]
-	path = gohighlevel_oauth_demo_flask
-	url = https://github.com/MB0390231/gohighlevel_oauth_demo_flask.git
+[submodule "oauth_flask"]
+	path = oauth_flask
+	url = https://github.com/MB0390231/oauth_flask.git
