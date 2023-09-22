@@ -13,7 +13,7 @@ import sys, os
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Navigate up two folders
-parent_dir = os.path.dirname(os.path.dirname(current_dir))
+parent_dir = os.path.dirname(current_dir)
 print(parent_dir)
 sys.path.append(parent_dir)
 
